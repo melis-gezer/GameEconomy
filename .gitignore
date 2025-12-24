@@ -1,0 +1,15 @@
+# env
+.venv/
+__pycache__/
+*.pyc
+
+# data & outputs
+events.parquet
+outputs/
+*.csv
+*.png
+*.parquet
+
+# editor/os
+.idea/
+.DS_Store
